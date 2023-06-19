@@ -110,6 +110,17 @@ Los archivos donde se puede verificar cómo probamos nuestros algoritmos se encu
 - ecdsa_sign_verify.ipynb
 - ECDH_vectores_de_prueba.ipynb
 - sql_database.ipynb
+- publisher_cert.ipynb
+- subscriber.ipynb
 
-Y todos los códigos que utilizamos también se encuentran en su versión en Jupyter Notebook en la misma carpeta, por si se desea ver cómo probamos cada código antes de implementarlo en nuestra solución.
+Y todos los códigos que utilizamos también se encuentran en su versión de Jupyter Notebook en la misma carpeta, por si se desea ver cómo probamos cada código antes de implementarlo en nuestra solución.
+
+Además para la parte de certificados incluimos un tutorial de como crearlos que está en certificados.md, y los certificados que generamos como ejemplo siguiendo este tutorial se encuentran en la carpeta certs.
+
+## Créditos
+
+- Karla Olvera https://github.com/karlasov
+- José Miguel Pérez https://github.com/Brito67
+- Eugenio Santisteban 
+- Alfredo García https://github.com/AlfredoGrcaa
 
