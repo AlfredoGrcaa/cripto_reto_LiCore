@@ -61,7 +61,7 @@ Antes de proceder, es importante establecer correctamente cada elemento de la re
 
 ## Cómo funciona
 
-Para enviar y recibir datos, necesitamos llevar a cabo la creación e intercambio de claves públicas, que es una de las primeras etapas de nuestro desafío. Para esto, debemos compartir nuestras claves públicas y privadas utilizando el archivo CC_ECDH_publicKey.py en el centro de control, y AU_ECDH_publicKey.py en el auditor. Ambos elementos intercambiarán sus claves publicándolas en el tópico /publicKeys. Después de intercambiar las claves públicas, utilizaremos CC_ECDH_sharedSecret.py y AU_ECDH_sharedSecret.py para determinar el secreto que ambos elementos compartirán. Este proceso debe realizarse en cada sesión, que durará 8 horas.
+Para enviar y recibir datos, necesitamos llevar a cabo la creación e intercambio de claves públicas, que es una de las primeras etapas de nuestro reto. Para esto, debemos compartir nuestras claves públicas y privadas utilizando el archivo CC_ECDH_publicKey.py en el centro de control, y AU_ECDH_publicKey.py en el auditor. Ambos elementos intercambiarán sus claves publicándolas en el tópico /publicKeys. Después de intercambiar las claves públicas, utilizaremos CC_ECDH_sharedSecret.py y AU_ECDH_sharedSecret.py para determinar el secreto que ambos elementos compartirán. Este proceso debe realizarse en cada sesión, que durará 8 horas.
 
 Para utilizar este código de encriptación y desencriptación entre dos clientes, generalmente se siguen los siguientes pasos:
 
