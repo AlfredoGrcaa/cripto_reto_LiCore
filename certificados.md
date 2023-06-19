@@ -36,7 +36,7 @@
    openssl x509 -req -in server.csr -CA ca.crt -CAkey ca.key -CAcreateserial -out server.crt
    ```
 
-## Generar un certificado de cliente (opcional)
+## Generar un certificado de cliente
 
 1. Genera una clave privada para el cliente usando ECC:
 
