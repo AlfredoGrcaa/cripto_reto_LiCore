@@ -121,6 +121,6 @@ Además para la parte de certificados incluimos un tutorial de como crearlos que
 
 - Karla Olvera https://github.com/karlasov
 - José Miguel Pérez https://github.com/Brito67
-- Eugenio Santisteban 
+- Eugenio Santisteban https://github.com/Uke1
 - Alfredo García https://github.com/AlfredoGrcaa
 
