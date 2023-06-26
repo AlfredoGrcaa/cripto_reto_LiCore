@@ -106,7 +106,7 @@ Todo lo mencionado anteriormente se considera y se puede revisar en los códigos
 6. subscriber_cert.py
 7. sql_database.py
 
-Los archivos donde se puede verificar cómo probamos nuestros algoritmos se encuentran en la carpeta "vectores de prueba". Allí se encuentran:
+Los archivos donde se puede verificar cómo probamos nuestros algoritmos se encuentran en la carpeta "vectores de prueba". En esta carpeta se encuentran:
 - ecdsa_sign_verify.ipynb
 - ECDH_vectores_de_prueba.ipynb
 - sql_database.ipynb
